@@ -1,17 +1,20 @@
+
 h1{
     font-family: "Poppins", sans-serif;
     font-weight: 700;
-    font-style: normal;#
+    font-style: normal;
     font-size: 96px;
 
 }
 h2{
-  padding-bottom: 50px;
+  padding-bottom: 20px;
+  font-size: 40px;
 }
 p{
     font-family: "Poppins", sans-serif;
   font-weight: 400;
   font-style: normal;
+  padding-bottom: 20px;
 }
 .hero{
   background-color: #F9F7Fe;
@@ -20,8 +23,8 @@ p{
 }
 .hero p{
   font-family: "Poppins", sans-serif;
-  font-size: 36px;
-  font-weight: bold;
+  font-size: 20px;
+  font-weight: normal;
 }
 .btn-primary{
 
@@ -29,4 +32,10 @@ p{
   padding: 12px 30px;
   line-height: 27px;
   font-size: 18px;
+}
+p {
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-weight: normal;
+  text-align: justify;
 }
